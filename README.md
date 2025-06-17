@@ -18,3 +18,8 @@ Get it right, keep playing. Get it wrong… game over!
 ```bash
 python instarankrumble.py
 
+---
+
+## Author
+
+[Saumya Pandey](https://github.com/SaumyaPandey-13)
