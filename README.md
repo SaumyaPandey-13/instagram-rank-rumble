@@ -18,6 +18,7 @@ Get it right, keep playing. Get it wrong… game over!
 ```bash
 python instarankrumble.py
 
+```
 ---
 
 ## Author
